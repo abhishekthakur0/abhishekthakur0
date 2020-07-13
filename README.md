@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 ## 💻 Languages and Technologies
-- Programming Languages - dart,Python,Swift
+- Programming Languages - Dart,Python,Swift
 - Operating Systems - Linux, Windows, Mac OS, Android
 - Database - MySQL, MongoDB(basic), NoSQL
-- Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code
+- Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code, X-Code
 - Others - Git,GitHub,Jira
 ## 🌱 I’m currently learning ...
  - Flutter Advance Designs 
