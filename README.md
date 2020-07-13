@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### I love to build tools🛠️ for productivity and work on stuffs that really matters.
 
 
-## Languages and Technologies
+## 💻 Languages and Technologies
 - Programming Languages - dart,Python,Swift
 - Operating Systems - Linux, Windows, Mac OS, Android
 - Database - MySQL, MongoDB(basic), NoSQL
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  - Flutter Projects
  - IOS App Development
 
-## Online Presence
+##  Online Presence
  - [Github](https://github.com/abhishekthakur0) 
  - [StackOverflow](https://stackoverflow.com/users/12440415/abhishek-thakur)
  - [LinkedIn](https://linkedin.com/in/abhishekthakur0)
