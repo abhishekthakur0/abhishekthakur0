@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋,I am Abhishek Thakur, I am a software developer💻, I build mobile📱 apps using Flutter.I love to build tools🛠️ for productivity and work on stuffs that really matters.
+### Hi there 👋,I am Abhishek Thakur, I am a software developer💻, I build mobile📱 apps using Flutter.
+### I love to build tools🛠️ for productivity and work on stuffs that really matters.
 
 
 ## Languages and Technologies
@@ -21,9 +22,12 @@ Here are some ideas to get you started:
 - Database - MySQL, MongoDB(basic), NoSQL
 - Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code
 - Others - Git,GitHub,Jira
-
+## 🌱 I’m currently learning ...
+ - Flutter Advance Designs 
+ 
 ## 👯 I’m looking to collaborate on ...
- - ###Flutter Projects
+ - Flutter Projects
+ - IOS App Development
 
 ## Online Presence
  - [Github](https://github.com/abhishekthakur0) 
