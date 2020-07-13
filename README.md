@@ -36,5 +36,4 @@ Here are some ideas to get you started:
  - [Twitter](https://twitter.com/officeofthakur)
  - [Quora](https://www.quora.com/profile/Abhishek-Thakur-1048)
 
-## 📫 Lets Connect
-   Connect with me on social platforms or drop me an [Email](thakur_abhishek@icloud.com) 
+## 📫 Lets Connect with me on social platforms or drop me an [Email](thakur_abhishek@icloud.com).
