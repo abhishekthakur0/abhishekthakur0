@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋,I am Abhishek Thakur, I am a software developer💻, I build mobile📱 apps using Flutter.
 ### I love to build tools🛠️ for productivity and work on stuffs that really matters.
-
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&theme=radical)
 
 ## 💻 Languages and Technologies
 - Programming Languages - Dart,Python,Swift
@@ -38,5 +38,4 @@ Here are some ideas to get you started:
 
 ## 📫 Lets Connect with me on social platforms or drop me an [Email](thakur_abhishek@icloud.com).
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&theme=radical)
 
