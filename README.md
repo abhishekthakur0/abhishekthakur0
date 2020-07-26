@@ -42,4 +42,7 @@ Here are some ideas to get you started:
 
 ## 📫 Lets Connect with me on social platforms or drop me an [Email](thakur_abhishek@icloud.com).
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Database-Mini-Project)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Calculator-App)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=simple_scanner)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=e_mandi)](https://github.com/anuraghazra/github-readme-stats)
