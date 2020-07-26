@@ -41,6 +41,6 @@ Here are some ideas to get you started:
  - [Quora](https://www.quora.com/profile/Abhishek-Thakur-1048)
 
 ## 📫 Lets Connect with me on social platforms or drop me an [Email](thakur_abhishek@icloud.com).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Record)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Calculator-App)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Records)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Calculator-App)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=simple_scanner)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=e_mandi)](https://github.com/anuraghazra/github-readme-stats)
