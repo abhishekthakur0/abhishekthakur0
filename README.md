@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - Database - MySQL, MongoDB(basic), NoSQL
 - Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code, X-Code
 - Others - Git,GitHub,Jira
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekthakur0)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🌱 I’m currently learning ...
  - Flutter Advance Designs 
  
