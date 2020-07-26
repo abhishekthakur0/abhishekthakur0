@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 
 ## 📫 Lets Connect with me on social platforms or drop me an [Email](thakur_abhishek@icloud.com).
 
-[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekthakur0&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&theme=radical)
+
