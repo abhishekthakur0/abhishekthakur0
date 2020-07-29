@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code, X-Code
 - Others - Git,GitHub,Jira
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekthakur0)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekthakur0)](https://github.com/abhishekthakur0)
 
 
 ## 🌱 I’m currently learning ...
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
  - [Quora](https://www.quora.com/profile/Abhishek-Thakur-1048)
 
 ## 📫 Lets Connect with me on social platforms or drop me an [Email](thakur_abhishek@icloud.com).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Records)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Quick-Share)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Records)](https://github.com/abhishekthakur0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Quick-Share)]((https://github.com/abhishekthakur0)
 </br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=TwitterBot)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Tap-Music)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=TwitterBot)](https://github.com/abhishekthakur0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Tap-Music)](https://github.com/abhishekthakur0)
