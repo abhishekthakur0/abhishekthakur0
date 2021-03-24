@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code, X-Code
 - Others - Git,GitHub,Jira
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekthakur0)](https://github.com/abhishekthakur0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekthakur0&layout=compact)](https://github.com/abhishekthakur0)
 
 
 ## 🌱 I’m currently learning ...
