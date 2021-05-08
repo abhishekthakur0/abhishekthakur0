@@ -5,7 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekthakur0" alt="abhishekthakur0" /></a> </p>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekthakur0&show_icons=true&locale=en&layout=compact" alt="abhishekthakur0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&locale=en" alt="abhishekthakur0" /></p>
