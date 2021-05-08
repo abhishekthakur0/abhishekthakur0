@@ -14,24 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋,I am Abhishek Thakur, I am a Software Designer & Developer.
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&theme=radical)
-
-## 💻 Languages and Technologies
-- Programming Languages - Dart,Python,Swift, 
-- Operating Systems - Linux, Windows, Mac OS, Android
-- Database - MySQL, MongoDB(basic), NoSQL
-- Frameworks and tools - Flutter,Firebase,Android,Bootstrap,VS Code, X-Code
-- Others - Git,GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekthakur0&layout=compact)](https://github.com/abhishekthakur0)
-
-
-## 🌱 I’m currently learning ...
- - Flutter Advance Designs 
- 
-## 👯 I’m looking to collaborate on ...
- - Flutter Projects
- - IOS App Development
-
 ## 📞 Online Presence
  - [Github](https://github.com/abhishekthakur0) 
  - [StackOverflow](https://stackoverflow.com/users/12440415/abhishek-thakur)
