@@ -7,11 +7,11 @@
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekthakur0&show_icons=true&locale=en&layout=compact" alt="abhishekthakur0" /></p>
 -->
-<p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&locale=en" alt="abhishekthakur0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&locale=en" alt="abhishekthakur0" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekthakur0&" alt="abhishekthakur0" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekthakur0&" alt="abhishekthakur0" />
 </p>
+
 <p align="left"> <a href="https://twitter.com/abhi_____thakur" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_____thakur?logo=twitter&style=for-the-badge" alt="abhi_____thakur" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekthakur0?tab=repositories](https://github.com/abhishekthakur0)
