@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋,I am Abhishek Thakur, I am a software developer💻, I build mobile📱 apps using Flutter.
+### Hi there 👋,I am Abhishek Thakur, I am a software developer💻, I build apps using Flutter and other frameworks.
 ### I love to build tools🛠️ for productivity and work on stuffs that really matters.
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&theme=radical)
 
 ## 💻 Languages and Technologies
-- Programming Languages - Dart,Python,Swift
+- Programming Languages - Dart,Python,Swift, 
 - Operating Systems - Linux, Windows, Mac OS, Android
 - Database - MySQL, MongoDB(basic), NoSQL
-- Frameworks and tools - Flutter,Firebase, Android,Bootstrap,VS Code, X-Code
-- Others - Git,GitHub,Jira
+- Frameworks and tools - Flutter,Firebase,Android,Bootstrap,VS Code, X-Code
+- Others - Git,GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekthakur0&layout=compact)](https://github.com/abhishekthakur0)
 
@@ -41,10 +41,3 @@ Here are some ideas to get you started:
  - [Quora](https://www.quora.com/profile/Abhishek-Thakur-1048)
 
 ## 📫 Lets Connect with me on social platforms or drop me an [Email](thakur_abhishek@icloud.com).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Records)](https://github.com/abhishekthakur0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Quick-Share)](https://github.com/abhishekthakur0)
-</br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=TwitterBot)](https://github.com/abhishekthakur0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekthakur0&repo=Tap-Music)](https://github.com/abhishekthakur0)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishekthakur0)](https://github.com/abhishekthakur0)
-
