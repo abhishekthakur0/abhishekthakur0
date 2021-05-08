@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there 👋,I am Abhishek Thakur, I am a Software Designer & Developer.
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&theme=radical)
 
-![alt text](http://url/to/img.png)
+![Twitter](http://i.imgur.com/tXSoThF.png)
 
 ## 📞 Online Presence
  - [Github](https://github.com/abhishekthakur0) 
