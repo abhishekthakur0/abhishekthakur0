@@ -5,9 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekthakur0" alt="abhishekthakur0" /></a> </p>
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekthakur0&show_icons=true&locale=en&layout=compact" alt="abhishekthakur0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&locale=en" alt="abhishekthakur0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekthakur0&" alt="abhishekthakur0" /></p>
+
 <p align="left"> <a href="https://twitter.com/abhi_____thakur" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_____thakur?logo=twitter&style=for-the-badge" alt="abhi_____thakur" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhishekthakur0?tab=repositories](https://github.com/abhishekthakur0?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/abhishekthakur0?tab=repositories](https://github.com/abhishekthakur0)
 
 - 📫 How to reach me **thakur_abhishek@icloud.com**
 
@@ -38,9 +45,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhishekthakur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekthakur" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekthakur0&show_icons=true&locale=en&layout=compact" alt="abhishekthakur0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&locale=en" alt="abhishekthakur0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekthakur0&" alt="abhishekthakur0" /></p>
