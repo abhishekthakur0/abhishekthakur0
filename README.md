@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋,I am Abhishek Thakur, I am a software developer💻, I build apps using Flutter and other frameworks.
-### I love to build tools🛠️ for productivity and work on stuffs that really matters.
+### Hi there 👋,I am Abhishek Thakur, I am a Software Designer & Developer.
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&theme=radical)
 
 ## 💻 Languages and Technologies
