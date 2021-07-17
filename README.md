@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur0&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekthakur0" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekthakur0" alt="abhishekthakur0" /></a> </p>
+<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekthakur0)](https://github.com/ryo-ma/github-profile-trophy)
+ </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&locale=en" alt="abhishekthakur0" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekthakur0&" alt="abhishekthakur0" />
