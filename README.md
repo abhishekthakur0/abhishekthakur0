@@ -8,7 +8,8 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekthakur0" alt="abhishekthakur0" /></a> </p>
  -->
 
-<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&locale=en" alt="abhishekthakur0" />
+<p align='center'>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=abhishekthakur0&show_icons=true&locale=en" alt="abhishekthakur0" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekthakur0&" alt="abhishekthakur0" />
 </p>
