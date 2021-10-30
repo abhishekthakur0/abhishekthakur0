@@ -1,4 +1,7 @@
-<a align="center" href="https://app.daily.dev/abhishekthakur"><img src="https://api.daily.dev/devcards/41c0b2a71f83443e966db613b4310764.png?r=dxu" width="400" alt="Abhishek Thakur's Dev Card"/></a>
+
+<p align="center"> 
+<a href="https://app.daily.dev/abhishekthakur"><img src="https://api.daily.dev/devcards/41c0b2a71f83443e966db613b4310764.png?r=dxu" width="400" alt="Abhishek Thakur's Dev Card"/></a>
+ </p>
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">Software Designer & Developer</h3>
 
