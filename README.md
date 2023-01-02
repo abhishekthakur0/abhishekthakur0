@@ -21,27 +21,20 @@
 
 * 📫 How to reach me **thakur_abhishek@icloud.com**
 
-<h3>Languages and Tools:</h3>
+I have a strong foundation in a variety of technologies, including:
 
-  
- <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+💻 Flutter 
+💻 Dart 
+🔥 Firebase 
+🐍 Python 
+🚀 FastAPI 
+⚡ Git 
+💻 AWS 
+💻 GCP
 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+I hold a Bachelor of Engineering degree in Computer Science & Engineering from Sambharam Institute of Technology and have worked on a diverse range of mobile app development projects using Flutter. Some of my notable achievements include Server Driven User Interface, REST API Integration, Firebase Integration, Chat System Design, Agora Integration, Razor Pay Integration, and app deployment for both Android and iOS. I have also implemented Fastlane for CI/CD setup.
 
+I am always eager to take on new challenges and continue learning and growing as a software engineer. If you have a project that could benefit from my skills and expertise, please don't hesitate to reach out. I look forward to collaborating with you on exciting projects. 
 
-<!-- Support Section -->
+Thank you for considering my profile. 🙏
 
-<h3>Support Me:</h3>
-
-<p>
-<a href="https://www.buymeacoffee.com/abhishekthakur"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekthakur" /></a></p><br><br>
