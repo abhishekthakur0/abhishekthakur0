@@ -7,6 +7,11 @@
 <!-- <p> <a href="https://twitter.com/abhi_____thakur" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_____thakur?logo=twitter&style=for-the-badge" alt="abhi_____thakur" /></a> </p> -->
 
 * 📫 How to reach me **thakur_abhishek@icloud.com**
+* You can also connect with me on social media at the following handles:
+
+- Twitter: [https://twitter.com/abhi_____thakur]
+- LinkedIn: [https://www.linkedin.com/in/abhishekthakur0/]
+- Instagram: [https://www.instagram.com/abhishekthakur._/]
 
 I have a strong foundation in a variety of technologies, including:
 
