@@ -8,7 +8,6 @@
 
 * 📫 How to reach me **thakur_abhishek@icloud.com**
 * You can also connect with me on social media at the following handles:
-
 - Twitter: [https://twitter.com/abhi_____thakur]
 - LinkedIn: [https://www.linkedin.com/in/abhishekthakur0/]
 - Instagram: [https://www.instagram.com/abhishekthakur._/]
