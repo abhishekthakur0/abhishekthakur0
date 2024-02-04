@@ -3,16 +3,6 @@
 <h3 align="center">Software Designer & Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur0&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekthakur0" /> </p>
-
-<!-- <p> <a href="https://twitter.com/abhi_____thakur" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_____thakur?logo=twitter&style=for-the-badge" alt="abhi_____thakur" /></a> </p> -->
-
-* 📫 How to reach me **kumarcops@gmail.com**
-
-* You can also connect with me on social media at the following handles:
-- Twitter: [https://twitter.com/abhi_____thakur]
-- LinkedIn: [https://www.linkedin.com/in/abhishekthakur0/]
-- Instagram: [https://www.instagram.com/abhishekthakur._/]
-
 I have a strong foundation in a variety of technologies, including:
 
 💻 Flutter 
@@ -30,3 +20,9 @@ I am always eager to take on new challenges and continue learning and growing as
 
 Thank you for considering my profile. 🙏
 
+
+
+* You can connect with me on social media at the following handles:
+- Twitter: [https://twitter.com/abhi_____thakur]
+- LinkedIn: [https://www.linkedin.com/in/abhishekthakur0/]
+- Instagram: [https://www.instagram.com/abhishekthakur._/]
