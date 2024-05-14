@@ -20,7 +20,7 @@ I am always eager to take on new challenges and continue learning and growing as
 
 Thank you for considering my profile. 🙏
 
-
+![image](https://www.codewars.com/users/abhishekthakur/badges/large)
 
 * You can connect with me on social media at the following handles:
 - Twitter: [https://twitter.com/abhi_____thakur]
