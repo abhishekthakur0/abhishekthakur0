@@ -1,28 +1,32 @@
+<h1 align="center">Hi 👋, I'm Abhishek Thakur</h1> <h3 align="center">Software Designer & Developer</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p> <p align="center"> <strong>Welcome to my GitHub profile!</strong> I’m a dedicated software designer and developer with a strong foundation in various cutting-edge technologies. </p>
+Technologies I Work With:
+💻 Flutter
+💻 Dart
+🔥 Firebase
+🐍 Python
+🚀 FastAPI
+⚡ Git
+☁️ AWS
+☁️ GCP
+About Me
+I hold a Bachelor of Engineering degree in Computer Science & Engineering from Sambhram Institute of Technology. My expertise lies in mobile app development, particularly using Flutter. I’ve successfully worked on a wide array of projects, some of which include:
 
-<h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
-<h3 align="center">Software Designer & Developer</h3>
+Server-Driven UI
+REST API Integration
+Firebase Integration
+Chat System Design
+Agora Integration
+Razorpay Integration
+CI/CD Setup with Fastlane
+App Deployment for Android and iOS
+I'm passionate about solving complex problems and always eager to take on new challenges. Continuous learning and improvement are at the core of my professional journey.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur0&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekthakur0" /> </p>
-I have a strong foundation in a variety of technologies, including:
+If you have a project where my skills could be of use, feel free to reach out. I’m excited about the possibility of collaborating on innovative and impactful projects.
 
-💻 Flutter 
-💻 Dart 
-🔥 Firebase 
-🐍 Python 
-🚀 FastAPI 
-⚡ Git 
-💻 AWS 
-💻 GCP
+Thank you for visiting my profile! 🙏
 
-I hold a Bachelor of Engineering degree in Computer Science & Engineering from Sambharam Institute of Technology and have worked on a diverse range of mobile app development projects using Flutter. Some of my notable achievements include Server Driven User Interface, REST API Integration, Firebase Integration, Chat System Design, Agora Integration, Razor Pay Integration, and app deployment for both Android and iOS. I have also implemented Fastlane for CI/CD setup.
-
-I am always eager to take on new challenges and continue learning and growing as a software engineer. If you have a project that could benefit from my skills and expertise, please don't hesitate to reach out. I look forward to collaborating with you on exciting projects. 
-
-Thank you for considering my profile. 🙏
-
-![image](https://www.codewars.com/users/abhishekthakur/badges/large)
-
-* You can connect with me on social media at the following handles:
-- Twitter: [https://twitter.com/abhi_____thakur]
-- LinkedIn: [https://www.linkedin.com/in/abhishekthakur0/]
-- Instagram: [https://www.instagram.com/abhishekthakur._/]
+Connect With Me
+Twitter: @abhi_____thakur
+LinkedIn: Abhishek Thakur
+Instagram: @abhishekthakur._
+<p align="center"> <img src="https://www.codewars.com/users/abhishekthakur/badges/large" alt="Codewars Badge" /> </p>
