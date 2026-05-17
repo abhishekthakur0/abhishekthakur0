@@ -3,7 +3,9 @@
 </br>
 Software Engineer with 6+ years of experience in mobile and backend development, now specializing in building AI-powered applications end-to-end.
 
+
 I work across the full stack — from Flutter-based frontends to FastAPI backends — with a growing focus on LLM-based systems and intelligent product development. I've contributed to real-world AI products at BossWorks, combining strong engineering fundamentals with practical expertise in building scalable, production-ready solutions.
+
 
 Passionate about the intersection of software engineering and AI, and committed to building tools that solve real problems efficiently.
 
