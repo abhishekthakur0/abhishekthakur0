@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1> <p align="center"><em>Embracing Innovation, Crafting Code: Empowering the Future with Tech!</em></p>
 <h2>About Me</h2>
 </br>
-I’m a passionate software designer and developer with a focus on creating impactful solutions. With a strong foundation in mobile app development, I’ve worked on a variety of projects, delivering high-quality software that meets user needs.
+Software Engineer with 6+ years of experience in mobile and backend development, now specializing in building AI-powered applications end-to-end.
 
-I hold a Bachelor of Engineering degree in Computer Science & Engineering and am always eager to take on new challenges and learn new technologies. Continuous growth and innovation drive my work.
+I work across the full stack — from Flutter-based frontends to FastAPI backends — with a growing focus on LLM-based systems and intelligent product development. I've contributed to real-world AI products at BossWorks, combining strong engineering fundamentals with practical expertise in building scalable, production-ready solutions.
+
+Passionate about the intersection of software engineering and AI, and committed to building tools that solve real problems efficiently.
 
 Thank you for visiting my profile! 🙏
 
